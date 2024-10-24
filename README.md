@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madina</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Web app for customisable forms**
-
-- 🌱 I’m currently learning **Reactjs/Nodejs**
-
 - 📫 How to reach me **madina.m.9509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
